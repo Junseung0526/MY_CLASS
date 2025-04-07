@@ -1,0 +1,8 @@
+--주문하지 않은 고객의 이름 (부속질의 사용)
+
+SELECT NAME
+FROM CUSTOMER
+WHERE CUSTID NOT IN (
+    SELECT DISTINCT CUSTID
+    FROM ORDERS   
+)
