@@ -5,7 +5,7 @@
 중요도: 중
 복습 필요: No
 
-![image.png](3%20SQL%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201b7c51a948fd8024a702e050d6f4703d/image.png)
+![image.png](3%20SQL%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201b7c51a948fd8024a702e050d6f4703d/image/03-01.png)
 
 ## **1. SQL 개요**
 
