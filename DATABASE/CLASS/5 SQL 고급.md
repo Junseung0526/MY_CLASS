@@ -44,6 +44,14 @@ FROM Book A
 LEFT JOIN Publisher B ON A.publisher_id = B.publisher_id;
 ```
 
+### ✅ **RIGHT JOIN** (오른쪽 테이블 모든 데이터 + 왼쪽 일치하는 값)
+
+```sql
+SELECT A.bookname, B.publisher
+FROM Book A
+RIGHT JOIN Publisher B ON A.publisher_id = B.publisher_id;
+```
+
 ---
 
 ## 📊 집계 및 분석 함수
@@ -118,7 +126,7 @@ CREATE INDEX idx_bookname ON Book(bookname);
 ## 📝 **핵심 요약**
 
 - **서브쿼리**: 쿼리 안에 또 다른 쿼리 포함
-- **JOIN**: 여러 테이블을 연결 (`INNER JOIN`, `LEFT JOIN`)
+- **JOIN**: 여러 테이블을 연결 (`INNER JOIN`, `LEFT JOIN`,`RIGHT JOIN`)
 - **GROUP BY & HAVING**: 데이터 그룹화 및 조건 설정
 - **윈도우 함수**: 순위(RANK), 행 번호(ROW_NUMBER) 계산
 - **트랜잭션**: `COMMIT` (저장), `ROLLBACK` (취소)
