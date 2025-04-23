@@ -37,7 +37,7 @@ ALTER TABLE NewBook MODIFY isbn NUMBER; -- 데이터 타입 변경
 DROP TABLE NewBook;
 ```
 
----
+##
 
 ## ⚡ 데이터 조작어 (DML)
 
@@ -65,7 +65,7 @@ UPDATE Customer SET address = '대한민국 부산' WHERE custid = 5;
 DELETE FROM Customer WHERE custid = 5;
 ```
 
----
+##
 
 ## 🔐 제약 조건 (Constraints)
 
@@ -74,7 +74,7 @@ DELETE FROM Customer WHERE custid = 5;
 - **NOT NULL**: NULL 값을 허용하지 않음
 - **ON DELETE CASCADE**: 부모 테이블 삭제 시 자식 테이블도 함께 삭제
 
----
+##
 
 ## 🔄 기타 핵심 SQL
 
@@ -105,7 +105,7 @@ INSERT INTO Book VALUES (bookid_seq.NEXTVAL, '책 제목', '출판사', 123000);
 TRUNCATE TABLE Book;
 ```
 
----
+##
 
 ## 📝 **핵심 요약**
 
