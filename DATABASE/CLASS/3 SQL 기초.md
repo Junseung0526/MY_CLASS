@@ -5,7 +5,8 @@
 중요도: 중
 복습 필요: No
 
-![03-01](https://github.com/user-attachments/assets/7c4584b1-4b3f-4610-a636-bbf8119a57c5)
+![image](https://github.com/user-attachments/assets/86ce1e9a-144a-48c5-8361-200bfb5b5f02)
+
 ## **1. SQL 개요**
 
 - **SQL(Structured Query Language)**는 관계형 데이터베이스(RDB)에서 데이터를 **조작하고 관리하는 언어**다.
