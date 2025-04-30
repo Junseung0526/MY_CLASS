@@ -10,7 +10,7 @@
 - 기본 SQL을 확장하여 **복잡한 쿼리, 최적화, 고급 함수** 등을 활용하는 방법
 - 데이터 분석, 성능 향상, 트랜잭션 관리 등의 기능 포함
 
----
+##
 
 ## 🏗️ 고급 SQL 기능
 
@@ -52,7 +52,7 @@ FROM Book A
 RIGHT JOIN Publisher B ON A.publisher_id = B.publisher_id;
 ```
 
----
+##
 
 ## 📊 집계 및 분석 함수
 
@@ -95,7 +95,7 @@ SELECT bookname, price, ROW_NUMBER() OVER (PARTITION BY publisher ORDER BY price
 FROM Book;
 ```
 
----
+##
 
 ## 🔄 트랜잭션 & 무결성
 
@@ -121,7 +121,7 @@ COMMIT;
 CREATE INDEX idx_bookname ON Book(bookname);
 ```
 
----
+##
 
 ## 📝 **핵심 요약**
 

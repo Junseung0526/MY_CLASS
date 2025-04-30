@@ -36,7 +36,7 @@
     ```
     
 
----
+##
 
 ### 2. **DML (Data Manipulation Language)** - "건물 내부 작업"
 
@@ -71,7 +71,7 @@
     ```
     
 
----
+##
 
 ### 3. **DCL (Data Control Language)** - "건물 관리자의 권한 부여"
 
@@ -94,7 +94,7 @@
     ```
     
 
----
+##
 
 ### 요약
 
@@ -104,7 +104,7 @@
 | **DML** | SELECT, INSERT, UPDATE, DELETE | 건물 내부 작업 (가구 추가/수정/삭제) |
 | **DCL** | GRANT, REVOKE | 건물 관리자 권한 부여/취소 |
 
----
+##
 
 ## ✅ **뷰(View)**
 
@@ -150,7 +150,7 @@ SELECT employee_id, first_name, last_name FROM employees WHERE department_id = 1
 - **보안**: 민감한 데이터를 숨기고, 필요한 데이터만 제공
 - **데이터 분석**: 특정 데이터를 자주 조회하는 경우 성능을 높일 수 있음
 
----
+##
 
 ## ✅ **인덱스(Index)**
 
@@ -201,4 +201,4 @@ CREATE INDEX idx_employee_name_dept ON employees (last_name, department_id);
 - **성능 저하**: 인덱스는 데이터를 **삽입, 삭제, 수정할 때** 오버헤드를 발생시킴
 - **디스크 공간 사용**: 인덱스를 추가하면 추가적인 **디스크 공간**이 필요함
 
----
+##
