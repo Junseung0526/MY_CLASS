@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rla00\\source\\repos\\student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDCC1DC-72E7-4988-AF17-D87C22F3BA7A}|student.vcxproj|C:\\Users\\rla00\\source\\repos\\student\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDCC1DC-72E7-4988-AF17-D87C22F3BA7A}|student.vcxproj|solutionrelative:app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDCC1DC-72E7-4988-AF17-D87C22F3BA7A}|student.vcxproj|C:\\Users\\rla00\\source\\repos\\student\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDCC1DC-72E7-4988-AF17-D87C22F3BA7A}|student.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDCC1DC-72E7-4988-AF17-D87C22F3BA7A}|student.vcxproj|C:\\Users\\rla00\\source\\repos\\student\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDCC1DC-72E7-4988-AF17-D87C22F3BA7A}|student.vcxproj|solutionrelative:student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\rla00\\source\\repos\\student\\app.cpp",
+              "RelativeDocumentMoniker": "app.cpp",
+              "ToolTip": "C:\\Users\\rla00\\source\\repos\\student\\app.cpp",
+              "RelativeToolTip": "app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T07:08:42.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\rla00\\source\\repos\\student\\student.cpp",
+              "RelativeDocumentMoniker": "student.cpp",
+              "ToolTip": "C:\\Users\\rla00\\source\\repos\\student\\student.cpp",
+              "RelativeToolTip": "student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T07:08:37.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.h",
+              "DocumentMoniker": "C:\\Users\\rla00\\source\\repos\\student\\student.h",
+              "RelativeDocumentMoniker": "student.h",
+              "ToolTip": "C:\\Users\\rla00\\source\\repos\\student\\student.h",
+              "RelativeToolTip": "student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T07:06:41.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
